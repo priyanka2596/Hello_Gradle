@@ -50,7 +50,7 @@ dependencies {
 
 // [START gretty]
 gretty {
-    httpPort = 8080
+    httpPort = 6160
     contextPath = '/'
     servletContainer = 'tomcat8'  // What App Engine Flexible uses
 }
